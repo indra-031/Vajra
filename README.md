@@ -40,7 +40,7 @@ targets/<domain>/
 
 ```bash
 git clone https://github.com/indra-031/Vajra.git
-cd vajra/install
+cd Vajra/install
 ```
 
 ## 2️⃣ Run installer
