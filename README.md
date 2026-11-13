@@ -39,7 +39,7 @@ targets/<domain>/
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/indra-031/vajra.git
+git clone https://github.com/indra-031/Vajra.git
 cd vajra/install
 ```
 
